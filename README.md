@@ -22,10 +22,3 @@
 请确保安装 Python 和以下依赖：
 
 - PyQt5
-
-## 安装依赖
-
-在项目目录下运行以下命令安装所需依赖：
-
-```bash
-pip install -r requirements.txt
