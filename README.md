@@ -4,14 +4,14 @@
 [![Framework](https://img.shields.io/badge/Framework-PyQt5-green.svg)](https://riverbankcomputing.com/software/pyqt/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**PixClassify** 是一个使用 PyQt5 构建的轻量级图形化工具，旨在帮助用户快速、高效地对本地图像文件进行手动分类和标注，特别适用于机器学习和数据集准备工作。
+**PixClassify** 是一个使用 PyQt5 构建的轻量级图形化工具，旨在帮助用户快速、高效地对本地图像文件进行分类标注，特别适用于机器学习和数据集准备工作。
 
 ---
 
 ## 📸 应用截图
 
 
-![PixClassify Screenshot/Demo](https://imgur.com/a/FP5DY8i)
+![PixClassify Screenshot/Demo](https://i.imgur.com/xO1y8mj.png)
 
 ---
 
