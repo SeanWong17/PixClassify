@@ -11,7 +11,7 @@
 ## 📸 应用截图
 
 
-![PixClassify Screenshot/Demo](https://i.imgur.com/xO1y8mj.png)
+![PixClassify Screenshot/Demo](https://i.imgur.com/86wHpUz.png)
 
 ---
 
